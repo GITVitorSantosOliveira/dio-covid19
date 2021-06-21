@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no BootCamp da Digital Innovation One. \
 O projeto utiliza ReactJS,css,JavaScript na sua construção para a criação de uma 
-PWA(Progressive Web Application, 
+PWA(Progressive Web Application), 
 que mostra os números do corona vírus pelo mundo.
 
 ### Imagem da Aplicação:
